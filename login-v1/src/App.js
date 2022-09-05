@@ -48,7 +48,8 @@ function App() {
 
             <div className="text-center1">
             <a className="esqueciSenha" href="!">Esqueci minha senha</a>
-            </div>
+          </div>
+            
 
           </form>
         </div>
